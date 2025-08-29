@@ -45,7 +45,7 @@ Scammers exploited leaked phone numbers for OTP fraud and refund abuse.
 
 ✅ Solution Strategy
 
-🔗 Source Code: detector_full_jui_kalan.py
+🔗 Source Code: detector_full_lakshya.py
 
 ⚙️ Installation & Usage
 
@@ -134,3 +134,4 @@ This ensures not only technical safety but also business continuity and trust.
 
 
 Diagrams created using Excalidraw.
+
