@@ -53,10 +53,10 @@ Install dependencies:
 pip install pandas
 
 Run on Linux:
-python3 detector_full_jui_kalan.py iscp_pii_dataset.csv
+python3 detector_full_lakshya.py iscp_pii_dataset.csv
 
 Run on Windows:
-python detector_full_jui_kalan.py iscp_pii_dataset.csv
+python detector_full_lakshya.py iscp_pii_dataset.csv
 
 🌍 Why This Matters
 
@@ -131,5 +131,6 @@ Seamless integration into existing infra
 Regulatory compliance
 
 This ensures not only technical safety but also business continuity and trust.
+
 
 Diagrams created using Excalidraw.
